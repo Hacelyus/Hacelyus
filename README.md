@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Hacelyus
-- I’m a Medical Doctor and interested in Backend Development
+- I’m a Medical Doctor and interested in Software Development
 - I’m currently learning GO
